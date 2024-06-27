@@ -8,7 +8,7 @@ I am Shivali Mavi, a passionate Business Analytics Master's student with a knack
 
 🔍 Skilled in machine learning with a certified program.
 
-🚀 Seeking opportunities to apply expertise in innovative data-driven solutions.
+🚀 Exploring opportunities to apply expertise in innovative data-driven solutions.
 
 💡 Creative problem solver with a keen eye for detail.
 

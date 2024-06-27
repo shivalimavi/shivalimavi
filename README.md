@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-I am Shivali Mavi, a passionate Business Analytics Master's student with a knack for uncovering insights from data and turning them into actionable solutions
+I am Shivali Mavi, a passionate Business Analytics graduate student with a knack for uncovering insights from data and turning them into actionable solutions
 
-💼 Over 5 years of experience in ETL, data analysis, and project management.
+💼 Over 5 years of experience in ETL, data analysis, and business intelligence.
 
-🌟 Proficient in SQL, Python, Power BI, Advanced Excel, and statistical analysis.
+🌟 Proficient in SQL, Power BI, Advanced Excel, and statistical analysis.
 
-🔍 Skilled in machine learning with a certified program.
+🔍 Skilled in machine learning algorithms and tableau dashboards.
 
-🚀 Exploring opportunities to apply expertise in innovative data-driven solutions.
+🚀 Exploring opportunities to apply my expertise in innovative data-driven solutions.
 
 💡 Creative problem solver with a keen eye for detail.
 

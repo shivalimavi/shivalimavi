@@ -4,7 +4,7 @@ I am Shivali Mavi, a passionate Business Analytics Master's student with a knack
 
 💼 Over 5 years of experience in ETL, data analysis, and project management.
 
-🌟 Proficient in SQL, Python, Advanced Excel, and statistical analysis.
+🌟 Proficient in SQL, Python, Power BI, Advanced Excel, and statistical analysis.
 
 🔍 Skilled in machine learning with a certified program.
 

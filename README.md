@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center"> Hi there 👋 </h1>
 
 I am Shivali Mavi, and I love turning data into powerful insights that help make smarter decisions and improve how things work.
 
@@ -28,6 +28,7 @@ Reach me at mavishivali@gmail.com
  -->
 
 
-<!-- ### My Statistics
+****
+
+### My Statistics
 [![GitHub Streak](https://streak-stats.demolab.com?user=shivalimavi&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
--->

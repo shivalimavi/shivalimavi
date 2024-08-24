@@ -29,9 +29,10 @@ Reach me at mavishivali@gmail.com
 
 
 <h2 align="center"> My Statistics </h1>
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=shivalimavi&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  </a>
+</div>
 
- <p align="center"> 
-  
- [![GitHub Streak](https://streak-stats.demolab.com?user=shivalimavi&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-</p>

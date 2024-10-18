@@ -2,13 +2,15 @@
 
 I am Shivali Mavi, and I love turning data into powerful insights that help make smarter decisions and improve how things work.
 
-🍀 Currently analyzing data in Epidemiology and Health Care.
+🌺 Currently, IT Business Intelligence Intern @ BlueLinx.
+
+🍀 Volunteering: Guayana Diaspora Charity - analyzing data in Epidemiology and Health Care.
 
 💼 Over 5 years of experience in ETL, data analysis, and business intelligence.
 
 ✨ Creative problem solver with a keen eye for detail.
 
-💗 Love art, historical architecture, and travel.
+💗 Love art, historical architecture, and travelling.
 
 
 <h2 align="center"> My Statistics </h1>
